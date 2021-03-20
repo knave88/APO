@@ -1,0 +1,3 @@
+numpy==1.18.5
+matplotlib
+opencv-python-headless
