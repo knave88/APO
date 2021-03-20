@@ -1,0 +1,2 @@
+# APO
+ALGORYTMY PRZETWARZANIA OBRAZÓW - Laboratorium
