@@ -16,3 +16,9 @@ Lab3
 
 Lab4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab4_OpMorf_Szkielet.ipynb)
+
+
+Lab5
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab5_Segmentacja.ipynb)
+
+
