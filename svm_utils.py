@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/172y3xpWP16AE_rpf3dsd7mmuEihf4OBE
 """
 
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -131,5 +131,7 @@ def show_svm3_preds(svm,img_fname):
       else:
         cv2.drawContours(img3, [cnt], 0, (255,255,255), 3)
 
-  cv2_imshow(img3)
+  #cv2_imshow(img3)
+  plt.figure(figsize=(10,10))
+  plt.imshow(cv2.cvtColor(img3, cv2.COLOR_BGR2RGB))
 
