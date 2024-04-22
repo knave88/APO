@@ -26,7 +26,9 @@ Lab6
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab6_AnalizaObrazu.ipynb)
 
 
-
+## 2024
+Lab4- 2024
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab4_2024.ipynb)
 
 
 # POB
