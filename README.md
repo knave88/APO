@@ -26,8 +26,11 @@ Lab6
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab6_AnalizaObrazu.ipynb)
 
 
-## 2024
-Lab4- 2024
+## 2024 - 2025
+Lab2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab2_2025.ipynb)
+
+Lab4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/APO/HEAD?filepath=APO_Lab4_2024.ipynb)
 
 
